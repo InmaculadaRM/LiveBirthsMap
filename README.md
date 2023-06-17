@@ -1,3 +1,3 @@
 # LiveBirthsMap
-Live births in Scotland 2021- RMarkdown doc 
-easy to follow R exercise exploring and plotting spatial data
+Live births in Scotland 2021- RMarkdown doc -
+very easy to follow exercise exploring and plotting spatial data
