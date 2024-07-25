@@ -6,3 +6,5 @@ Follow-Along Exercise, exploring and plotting spatial data
 
 - Live births in Scotland 2021 by health board - RMarkdown doc : https://github.com/InmaculadaRM/LiveBirthsMap/blob/main/LiveBirthsScotland2021.Rmd
 - Live births in Scotland 2022 by health board  - RMarkdown doc : https://github.com/InmaculadaRM/LiveBirthsMap/blob/main/LiveBirthsScotland2022.Rmd
+
+see it in html : https://inmaruiz.com/scotland_natality/
