@@ -122,11 +122,9 @@ ggplot(still_year, aes(year, still_births)) + geom_col(fill="brown", alpha=0.4) 
 ```
 
 
-```{r}
 
-```
 
-Live births at home. I think not all home births were recorded in this dataset.  
+Live births at home. (Maybe not all home births were recorded in this dataset).  
 ```{r, fig.width=10, fig.height=4}
 home <- births %>%
   # D201N is the code for home births
